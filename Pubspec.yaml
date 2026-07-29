@@ -1,0 +1,15 @@
+name: viro_official
+description: Flutter app for viro official
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+
+flutter:
+  uses-material-design: true
